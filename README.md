@@ -4,7 +4,7 @@ This is a game's SourceCode || Game link -
 
 For Buisness enquiry - shrit2008@gmail.com
 
-Website- https://shrit1401.cf
+Website- http://shrit1401.cf
 ![vlcsnap-2021-03-19-16h21m48s103](https://user-images.githubusercontent.com/67160842/111769550-5d4f0680-88cf-11eb-9d5f-73104f4b0670.png)
 ![vlcsnap-2021-03-19-16h21m55s186](https://user-images.githubusercontent.com/67160842/111769563-6049f700-88cf-11eb-93b2-92ef9976357b.png)
 ![vlcsnap-2021-03-19-16h21m14s291](https://user-images.githubusercontent.com/67160842/111769567-617b2400-88cf-11eb-9da2-bb2918208c53.png)
